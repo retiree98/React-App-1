@@ -1,0 +1,17 @@
+.footer_top {
+  background-color: #2c3e50;
+}
+.footer_top h3 {
+  font-size: 1.75rem;
+  font-weight: 500;
+}
+.footer_bottom {
+  background-color: #1a252f;
+  padding: 10px;
+}
+.footer_bottom p {
+  text-align: center;
+  color: #f0f8ff;
+  padding-top: 10px;
+  margin-bottom: 1rem;
+}

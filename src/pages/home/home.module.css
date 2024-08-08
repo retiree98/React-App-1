@@ -1,0 +1,4 @@
+.home {
+  min-height: calc(-106px + 100vh);
+  background-color: #1abc9c;
+}
